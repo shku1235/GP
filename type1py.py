@@ -103,7 +103,7 @@ def generate_arrays_from_file(path):
 
     def load_images(img):
         #         print img
-        img = Image.open("sg17402/shku/GP/dataset/CaptionTraining2018/" + img[0] + ".jpg")
+        img = Image.open("sg17402/shku/dataset/CaptionTraining2018/" + img[0] + ".jpg")
         img = img.resize((imgdim, imgdim)).convert('RGB')
         T = (np.expand_dims(img, axis=0))
         return T

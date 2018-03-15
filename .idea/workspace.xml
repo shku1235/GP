@@ -2,12 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2295f9a5-47a8-4d53-ac1e-610498506a37" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/type1py.py" />
-      <change beforePath="$PROJECT_DIR$/Final_prediction1000.csv" afterPath="$PROJECT_DIR$/Final_prediction1000.csv" />
-      <change beforePath="$PROJECT_DIR$/GP_batch type 1.ipynb" afterPath="$PROJECT_DIR$/GP_batch type 1.ipynb" />
-      <change beforePath="$PROJECT_DIR$/GP_batch type 2.ipynb" afterPath="$PROJECT_DIR$/GP_batch type 2.ipynb" />
-      <change beforePath="$PROJECT_DIR$/preprocessed.txt" afterPath="$PROJECT_DIR$/preprocessed.txt" />
+      <change beforePath="$PROJECT_DIR$/type1py.py" afterPath="$PROJECT_DIR$/type1py.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -21,8 +16,8 @@
       <file leaf-file-name="type1py.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/type1py.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2848">
-              <caret line="103" column="25" lean-forward="true" selection-start-line="103" selection-start-column="25" selection-end-line="103" selection-end-column="25" />
+            <state relative-caret-position="352">
+              <caret line="105" column="38" lean-forward="true" selection-start-line="105" selection-start-column="38" selection-end-line="105" selection-end-column="38" />
               <folding />
             </state>
           </provider>
@@ -190,8 +185,8 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/type1py.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2848">
-          <caret line="103" column="25" lean-forward="true" selection-start-line="103" selection-start-column="25" selection-end-line="103" selection-end-column="25" />
+        <state relative-caret-position="352">
+          <caret line="105" column="38" lean-forward="true" selection-start-line="105" selection-start-column="38" selection-end-line="105" selection-end-column="38" />
           <folding />
         </state>
       </provider>
