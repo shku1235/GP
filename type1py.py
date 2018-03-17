@@ -69,7 +69,7 @@ from sklearn.utils import shuffle
 
 result = shuffle(result)
 print result.head()
-# 
+#
 
 imgdim = 640
 
